@@ -17,7 +17,3 @@ Os projetos da Comunidade de Práticas estão disponíveis no github do projeto:
 - Documentação do Express.js: http://expressjs.com
 - Documentação do Socket.io: http://socket.io
 
-
-##Copyright and license
-
-Copyright 2013-2015 Alberto Souza contato@albertosouza.net and contributors, under the MIT license.
